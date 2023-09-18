@@ -32,5 +32,5 @@ I would try to find out what the AI is looking for in the ad to categorize it as
 
 ### Explain how you would train a model or refind and test a prompt like this to further improve Podscribe's automated ad scoring feature?
 
-As a first step, to train the model I would use more manually trained data.
+As a first step, to train the model I would use more manually labelled data.
 
