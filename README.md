@@ -7,13 +7,13 @@
 ```
 SELECT *
 FROM thirdauth_episodeadvertiser
-WHERE date_column >= NOW() - INTERVAL '2 months'
+WHERE created_at >= NOW() - INTERVAL '2 months'
 ```
 and 
 ```
 SELECT *
 FROM thirdauth_advertiser
-WHERE date_column >= NOW() - INTERVAL '2 months'
+WHERE created_at >= NOW() - INTERVAL '2 months'
 ```
 The data generated from the above queries can be found in the files `thirdauth_episodeadvertiser.csv` and `thirdauth_advertiser.csv` respectively.
     
