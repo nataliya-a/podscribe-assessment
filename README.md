@@ -1,4 +1,4 @@
-# podscribe-assesment
+# podscribe-assessment
 
 ## Challenge 1 : SQL
 
